@@ -1,4 +1,4 @@
-const TELEGRAM_USERNAME = "OG_Goku_God_7";
+const TELEGRAM_USERNAME = "Sanatani_Goku_God_7";
 const TELEGRAM_CHANNEL = "About_Goku_God";
 const INSTAGRAM_URL = "https://instagram.com/goku_god_7editz";
 
